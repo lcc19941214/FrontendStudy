@@ -1,0 +1,305 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-CN">
+<head>
+<title>站酷（ZCOOL）设计师互动平台</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="/>
+<link rel="stylesheet" href="css/zcool.css" />
+<script>
+    function search_over (argument) {
+        var oseai=document.getElementById('searchicon');
+
+        oseai.src="images/search_hover.png";
+    }
+    function search_out (argument) {
+        var oseai=document.getElementById('searchicon');
+
+        oseai.src="images/search.png";
+    }
+    function ccli1 (argument) {
+        var oicli1=document.getElementById('icli1')
+
+        oicli1.src="images/icon_house_alt.png"
+    }
+    function rcli1 (argument) {
+        var oicli1=document.getElementById('icli1')
+
+        oicli1.src="images/icon_house.png"
+    }
+    function ccli2 (argument) {
+        var oicli2=document.getElementById('icli2')
+
+        oicli2.src="images/icon_mail_alt.png"
+    }
+    function rcli2 (argument) {
+        var oicli2=document.getElementById('icli2')
+
+        oicli2.src="images/icon_mail.png"
+    }
+    function ccli3 (argument) {
+        var oicli3=document.getElementById('icli3')
+
+        oicli3.src="images/icon_mic_alt.png"
+    }
+    function rcli3 (argument) {
+        var oicli3=document.getElementById('icli3')
+
+        oicli3.src="images/icon_mic.png"
+    }
+    function ccli4 (argument) {
+        var oicli4=document.getElementById('icli4')
+
+        oicli4.src="images/icon_star_alt.png"
+    }
+    function rcli4 (argument) {
+        var oicli4=document.getElementById('icli4')
+
+        oicli4.src="images/icon_star.png"
+    }
+    function ccli5 (argument) {
+        var oicli5=document.getElementById('icli5')
+
+        oicli5.src="images/icon_upload_alt.png"
+    }
+    function rcli5 (argument) {
+        var oicli5=document.getElementById('icli5')
+
+        oicli5.src="images/icon_upload.png"
+    }
+</script>
+</head>
+    <body>
+    	<div id="container">
+    		<div id="header">
+    			<div id="nav">
+    				<table id="cata">
+                        <tr>
+                            <td id="logo"><img src="images/logo.png" alt="站酷（ZCOOL）设计师互动平台" id="logo" /></td>
+                            <td><a href="#">首页</a></td>
+                            <td><a href="#">作品</a></td>
+                            <td><a href="#">文章</a></td>
+                            <td><a href="#">欣赏</a></td>
+                            <td><a href="#">素材</a></td>
+                            <td><a href="#">招聘</a></td>
+                            <td><a href="#">赛事</a></td>
+                            <td><a href="#">更多</a></td>
+                        </tr>
+                    </table>
+	    			<div id="menu">
+                        <div id="topsearch"><img src="images/search.png" alt="" id="topsearchicon" /></div> 
+                        <ul id="cataright">
+                            <li id="cli1" class="cataicon">
+                                <a href="#" onmouseover="ccli1()" onmouseout="rcli1()">
+                                    <img src="images/icon_house.png" alt="" id="icli1" />
+                                </a>
+                            </li>
+                            <li id="cli2" class="cataicon">
+                                <a href="#" onmouseover="ccli2()" onmouseout="rcli2()">
+                                    <img src="images/icon_mail.png" alt="" id="icli2" />
+                                </a>
+                            </li>
+                            <li id="cli3" class="cataicon">
+                                <a href="#" onmouseover="ccli3()" onmouseout="rcli3()">
+                                    <img src="images/icon_mic.png" alt="" id="icli3"/>
+                                </a>
+                            </li>
+                            <li id="cli4" class="cataicon">
+                                <a href="#" onmouseover="ccli4()" onmouseout="rcli4()">
+                                    <img src="images/icon_star.png" alt="" id="icli4"/>
+                                </a>
+                            </li>
+                            <li id="cli5" class="cataicon">
+                                <a href="#" onmouseover="ccli5()" onmouseout="rcli5()">
+                                    <img src="images/icon_upload.png" alt=""  id="icli5"/>
+                                </a>
+                            </li>
+                            <li id="cli6" class="cataicon"><img src="images/icon_user.png" alt="" id="icli6"/></li>
+                        </ul>  
+                    </div>
+    			</div>
+    		</div>
+    		<div id="content">
+    			<div id="pic"><img src="images/pic.jpeg" alt="少年郎，莫羞涩" /></div>
+    			<div id="tags" class="content">
+    				<table class="title">
+    					<tr>
+    						<td class="ti1">&nbsp;</td>
+    						<td class="ti2">站酷推荐</td>
+    					</tr>
+    				</table>
+                    <ul class="book_recom">
+                        <a href="#">
+                            <li>
+                                <div id="book_cover"><img src="./images/tags/yrybook.jpg" alt="设计师图书目录" class="bookicover" /></div>
+                                <dl class="book_info">
+                                    <dt>史上最全的设计师图书目录</dt>
+                                    <dd><strong>推荐</strong>：精彩图书，一网打尽</dd>
+                                </dl>
+                            </li>
+                        </a>
+                        <a href="#">
+                            <li>
+                                <div id="book_cover"><img src="./images/tags/WebFbanner.png" alt="WEB开发基础新手实战手册" class="bookicover" /></div>
+                                <dl class="book_info">
+                                    <dt>WEB开发基础新手实战手册</dt>
+                                    <dd><strong>推荐</strong>：学做你的第一个响应式网站</dd>
+                                </dl>
+                            </li>
+                        </a>
+                        <a href="#">
+                            <li>
+                                <div id="book_cover"><img src="./images/tags/Smashing1.jpg" alt="众妙之门" class="bookicover" /></div>
+                                <dl class="book_info">
+                                    <dt>众妙之门：网站重新设计之道</dt>
+                                    <dd><strong>推荐</strong>：精彩实用的网站UI设计宝典</dd>
+                                </dl>
+                            </li>
+                        </a>
+                        <a href="#">
+                            <li>
+                                <div id="book_cover"><img src="./images/tags/zrsjl1.jpg" alt="知日日知力" class="bookicover" /></div>
+                                <dl class="book_info">
+                                    <dt>知日《设计力》</dt>
+                                    <dd><strong>推荐</strong>：全面了解日本设计</dd>
+                                </dl>
+                            </li>
+                        </a>
+                    </ul>
+    			</div>
+    			<div id="articles" class="content">
+    				<table class="title">
+    					<tr>
+    						<td class="ti1">&nbsp;</td>
+    						<td class="ti2">热门文章</td>
+    					</tr>
+    				</table>
+                    <img src="./images/articles.png" alt="" width="100%"/>
+    			</div>
+    			<div id="sidebar" class="content">
+    				<table id="select">
+    					<tr>
+    						<td class="se1" onmouseover="showsi1()">最新文章</td>
+    						<td class="se2" onclick="showsi2()">随机文章</td>
+    						<td class="se3" onclick="showsi3()">回复最多</td>
+    					</tr>
+    				</table>
+    				<div id="si1" class="sidebox">
+                        <table class="articles_recom">
+                            <tr>
+                                <td class="articles_num"><b>1</b></td>
+                                <td class="articles_title"><a href="#">超实用MATERIAL DESIGN风</a></td>
+                                <td class="articles_date">05/03</td>
+                            </tr>
+                            <tr>
+                                <td class="articles_num"><b>2</b></td>
+                                <td class="articles_title"><a href="#">设计师应该知道的17个PS技巧</a></td>
+                                <td class="articles_date">05/03</td>
+                            </tr>
+                            <tr>
+                                <td class="articles_num"><b>3</b></td>
+                                <td class="articles_title"><a href="#">把握分寸感！聊聊日常设计中的</a></td>
+                                <td class="articles_date">05/03</td>
+                            </tr>
+                            <tr>
+                                <td class="articles_num"><b>4</b></td>
+                                <td class="articles_title"><a href="#">给我30秒！有哪些“说话”特别</a></td>
+                                <td class="articles_date">05/03</td>
+                            </tr>
+                            <tr>
+                                <td class="articles_num"><b>5</b></td>
+                                <td class="articles_title"><a href="#">PS新手教程！手把手打造复古典</a></td>
+                                <td class="articles_date">05/03</td>
+                            </tr>
+                            <tr>
+                                <td class="articles_num"><b>6</b></td>
+                                <td class="articles_title"><a href="#">无代码动效神器！教你用Hype3</a></td>
+                                <td class="articles_date">05/03</td>
+                            </tr>
+                            <tr>
+                                <td class="articles_num"><b>7</b></td>
+                                <td class="articles_title"><a href="#">请多关照！20个来自日本最优秀</a></td>
+                                <td class="articles_date">05/03</td>
+                            </tr>
+                            <tr>
+                                <td class="articles_num"><b>8</b></td>
+                                <td class="articles_title"><a href="#">新手教程！手把手打造复古典雅</a></td>
+                                <td class="articles_date">05/03</td>
+                            </tr>
+                            <tr>
+                                <td class="articles_num"><b>9</b></td>
+                                <td class="articles_title"><a href="#">图标教程！手把手教你绘制一枚</a></td>
+                                <td class="articles_date">05/03</td>
+                            </tr>
+                            <tr>
+                                <td class="articles_num"><b>10</b></td>
+                                <td class="articles_title"><a href="#">交互设计基础！四个移动界面最</a></td>
+                                <td class="articles_date">05/03</td>
+                            </tr>
+                        </table>
+                    </div>
+    				<div id="si2" class="sidebox"></div>
+    				<div id="si3" class="sidebox"></div>
+    			</div>
+    		</div>
+    		<div id="footer">
+    			<div id="search">
+                    <table id="searchbar">
+                        <tr>
+                            <td id="sea1">全部</td>
+                            <td id="sea2">&nbsp;</td>
+                            <td id="sea3">
+                                <img src="images/search.png" alt="search" id="searchicon" onmouseover="search_over()" onmouseout="search_out()"/>
+                            </td>
+                        </tr>
+                    </table>         
+                </div>
+    			<div id="extrainfo">
+                    <ul class="info">
+                        <li id="title">关于</li>
+                        <li>关于站酷</li>
+                        <li>版权声明</li>
+                        <li>关于隐私</li>
+                        <li>免责声明</li>
+                        <li>网站地图</li>
+                        <li>加入站酷</li>
+                    </ul>
+                    <ul class="info">
+                        <li id="title">栏目</li>
+                        <li>原创作品</li>
+                        <li>设计文章</li>
+                        <li>佳作赏析</li>
+                        <li>设计素材</li>
+                        <li>设计赛事</li>
+                        <li>精彩评论</li>
+                    </ul>
+                    <ul class="info">
+                        <li id="title">商务</li>
+                        <li>企业服务</li>
+                        <li>赛事服务</li>
+                        <li>招聘服务</li>
+                        <li>图片服务</li>
+                        <li>培训服务</li>
+                    </ul>
+                    <ul class="info">
+                        <li id="title">联系</li>
+                        <li>在线提问</li>
+                        <li>联系我们</li>
+                        <li>站酷微博</li>
+                        <li>站酷微信</li>
+                    </ul>
+                    <ul class="info">
+                        <li id="title">帮助</li>
+                        <li>站酷规则</li>
+                        <li>常见问题</li>
+                    </ul>
+                    <ul class="info" id="ul2">
+                        <li id="title">版权信息</li>
+                        <li>站酷（ZCOOL）会员所发布展示的“原创作品/文章”版权归原作者所有，任何商业用途均须联系作者。如未经授权用作他处，作者将保留追究侵权者法律责任的权利。</li>
+                        <li>京ICP备11017824号-4 / 京ICP证130164号<br />北京市公安局朝阳分局备案编号:110105000501<br />
+                        Copyright © 2006-2015 ZCOOL 全景统计</li>
+                    </ul>
+                </div>
+    		</div>
+    	</div>
+    </body>
+</html>
