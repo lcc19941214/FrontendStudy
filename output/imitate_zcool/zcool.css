@@ -1,0 +1,347 @@
+@import url(css/zcool.css);
+
+/*初始化代码*/
+body,ul,ol,li,p,h1,h2,h3,h4,h5,h6,form,fieldset,table,td,img,div{margin:0;padding:0;border:0;}
+body{background:#ffffff;color:#2d2d2d;font-size:12px; margin-top:0px;font-family:Verdana,"SimSun","宋体","Arial Narrow";}
+ 
+ul,ol{list-style-type:none;}
+select,input,img,select{vertical-align:middle;}
+
+a{text-decoration:none;}
+/*
+a:link{color:#009;}
+a:visited{color:#800080;}
+a:hover,a:active,a:focus{color:#c00;text-decoration:underline;}
+*/
+
+/*div 布局*/
+#container{
+	width: 100%;
+	height: auto;
+}
+#header{/*导航条*/
+	position: fixed;
+	z-index: 1;
+	width: 100%;
+	height: 45px;
+	background-color: #ffb300;
+	box-shadow: 0px 0px 5px #4e4e4e;
+}
+div#content{/*主体*/
+	position: absolute;
+	z-index: 0;
+	top:70px;
+	left:50%;
+	margin-left: -542px;
+	width: 1084px;
+	height: 1000px;
+	background-color: #ffffff;
+}
+div#footer{/*底部栏*/
+	position: absolute;
+	z-index: 0;
+	top:1200px;
+	margin-top: 135px;
+	width: 100%;
+	height: 264px;
+	background-color: #4e4e4e;
+}
+
+/*导航栏设置*/
+div#nav{/*导航条 1084px*/
+	margin:0 auto;
+	width: 1084px;
+}
+img#logo{/*导航条 logo*/
+	/*margin-top: 12px;*/
+}
+table#cata{/*文字导航*/
+	float: left;
+	height: 45px;
+	border-collapse: collapse;
+	vertical-align: middle;
+	font:14px/18px "SimSun";
+	color: #000;
+}
+table#cata td#logo{
+	width: 160px;
+}
+table#cata td{
+	width: 52px;
+}
+table#cata a{/*导航超链接*/
+	display: block;
+	width: 52px;
+	height: 45px;
+	text-decoration: none;
+	font:14px/18px "SimSun";
+	line-height: 45px;
+	color: #000;
+	text-align: center;
+}
+table#cata a:link{}
+table#cata a:visited{
+	color: #4e4e4e;
+}
+table#cata a:hover,a:active{
+	color: #fff;
+	font-weight: bold;
+	background-color: #4e4e4e;
+}
+div#menu{/*右侧小图标*/
+	float: right;
+	display: block;
+}
+ul#cataright{
+	float: right;
+	height: 45px;
+	list-style-type: none;
+	list-style-position: inside;
+	text-align: center;
+	line-height: 45px;
+}
+ul#cataright li{
+	float: left;
+	width: 35px;
+	margin-left: 1px;
+}
+ul#cataright li#cli6{/*用户头像*/
+	margin-left: 15px;
+	width: 24px;
+}
+img#icli6{
+	width: 24px;
+}
+ul#cataright a{/*小图标超链接*/
+	display: block;
+	margin-left: 1px;
+	width: 35px;
+	height:45px;
+	text-align: center;
+	line-height: 45px;
+	text-decoration: none;
+}
+ul#cataright a:link{}
+ul#cataright a:visited{}
+ul#cataright a:hover,a:active{
+	background-color: #d80616;
+}
+div#topsearch{
+	display: inline-block;
+	margin-top: 10px;
+	margin-right: 10px;
+	padding-right: 5px;
+	border: 1px solid #ffa300;
+	width: 175px;
+	height: 24px;
+	background-color: #fff;
+	text-align: right;
+	vertical-align: middle;
+	line-height: 24px;
+}
+
+/*主体*/
+div#pic{/*轮播图*/
+	width: 1084px;
+	height: 350px;
+	background-color: red;
+}
+.content{/*tags articles sidebar*/
+	margin-top: 25px;
+}
+div#tags{/*标签（站酷推荐）*/
+	position: absolute;
+	left: 0px;
+	width: 160px;
+	height: 460px;
+	/*background-color: red;*/
+}
+div#articles{/*主体文章推荐*/
+	position: absolute;
+	left: 192px;
+	/*margin-left:32px;
+	margin-right:32px;*/
+	width:610px;
+	/*height: 600px;*/
+	background:red;
+	overflow: auto;
+}
+div#sidebar{/*侧边栏*/
+	position: absolute;
+	right: 0px;
+	width: 250px;
+	height: 320px;
+	/*background-color: green;*/
+	overflow: auto;
+}
+table.title{/*小标题*/
+	width: 100%;
+	height: 40px;
+	background-color: #f3f3f3;
+	border-collapse: collapse;
+	font: 18px/40px "Microsoft Yahei";
+	color: #aaa;
+}
+table.title td.ti1{
+	margin-right: 10px;
+	width: 10px;
+	height: 40px;
+	background-color: #e9e9e9;
+}
+table.title td.ti2{
+	padding-left: 10px;
+}
+table#select{/*侧边栏 标题*/
+	width: 100%;
+	height: 40px;
+	background-color: #f3f3f3;
+	border-collapse: collapse;
+	font: 14px/40px "Microsoft Yahei";
+	color: #4e4e4e;
+	text-align: center;
+}
+table#select td.se1,td.se2,td.se3{
+	margin-right: 10px;
+	width: 33%;
+	height: 40px;
+	background-color: #f3f3f3;
+}
+td.se2{
+	border-left: 1px solid #ddd;
+	border-right: 1px solid #ddd;
+}
+
+/*站酷推荐*/
+ul#book_recom{
+	list-style-type: none;
+}
+ul#book_recom li{
+	margin-top: 15px;
+}
+div#book_cover{
+	float: left;
+	clear: both;
+	margin-right: 10px;
+	margin-bottom: 30px;
+}
+img.bookicover{
+	width: 50px;
+}
+dl.book_info{
+	margin-bottom: 30px;
+	color: #2d2d2d;
+	font-size: 12px;
+	line-height: 18px;
+}
+dl.book_info dd{
+	color: #6e6e6e;
+}
+
+/*主体文章推荐*/
+
+/*推荐文章*/
+table.articles_recom{/*推荐文章*/
+	width: 250px;
+	height: 100%;
+	border-collapse: collapse;
+}
+table.articles_recom td.articles_num{/*数字*/
+	width: 14px;
+	text-align: center;
+	color: #fff;
+}
+table.articles_recom td.articles_num b{/*数字的背景框*/
+	display: block;
+	width: 14px;
+	height: 14px;
+	background-color: #aaa;
+	font-size: 10px;
+	font-weight: normal;
+}
+table.articles_recom td.articles_title{/*标题*/
+	width: 200px;
+	text-indent: 10px;
+	color: #2d2d2d;
+}
+td.articles_title a:link,a:visited{
+	color: #0099ff;
+}
+td.articles_title a:hover,a:active{
+	color: #2d2d2d;
+}
+table.articles_recom td.articles_date{/*日期*/
+	width: 40px;
+	text-align: right;
+	color: #aaa;
+}
+
+
+
+div.sidebox{/*侧边栏 下方方框*/
+	position: absolute;
+	width: 100%;
+	height: 280px;
+}
+/*div#si1{
+	background-color: red;
+	z-index: 1;
+}
+div#si2{
+	background-color: yellow;
+	z-index: 0;
+}
+div#si3{
+	background-color: blue;
+	z-index: 0;
+}*/
+
+/*footer seeting*/
+div#search{/*搜索条*/
+	padding-top: 7.5px;
+	width: 100%;
+	height: 45px;
+	background-color: #ffb300;
+	box-shadow: 0px 0px 5px #2d2d2d;
+}
+table#searchbar{/*搜索框*/
+	margin: 0 auto;
+	border-collapse: collapse;
+	width: 355px;
+	height: 35px;
+	background-color: #ffffff;
+}
+table#searchbar td#sea1{
+	width: 60px;
+	height: 35px;
+	background-color: #fff;
+	border-right: 1px solid #ffb300;
+	text-align: center;
+}
+table#searchbar td#sea3{
+	width: 26px;
+}
+img#searchicon{/*搜索icon*/
+	display: block;
+	width: 16px;
+}
+div#extrainfo{
+	margin:0 auto;
+	width: 950px;
+}
+.info{
+	margin-top:20px;
+	margin-right: 50px;
+	float: left;
+	font-size:12px;
+	line-height: 22px;
+	color: #bbb;
+}
+ul li#title{
+	color: #fff;
+}
+ul#ul2{/*右对齐文本*/
+	float: right;
+	width: 280px;
+	font-family: Verdana,"SimSun";
+	margin-right: 0px;
+}
