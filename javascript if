@@ -1,0 +1,35 @@
+/*运行错误下面的代码没有反应
+ *no response with code below
+ */
+
+var n1 = 1;
+var n2 = 2;
+var n3 = 3;
+
+if (n1>n2) {
+	if (n1>n3) {
+		max=n1;
+	};
+	else{
+		max=n3;
+	}
+};
+else if (n2>n3){
+	max=n2;
+}
+else{
+	max=n3;
+}
+alert(max);
+
+/*希望实现下面的效果
+ *I hope it can work like code below
+ */
+ 
+var n1 = 1;
+var n2 = 2;
+var n3 = 3;
+
+exp = (n1>n2)?n1:((n1>n3)?n1:((n2>n3)?n2:n3))
+
+alert(exp);
