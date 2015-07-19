@@ -1,7 +1,7 @@
 /*运行错误下面的代码没有反应
  *no response with code below
  */
-
+//紧急修复
 var n1 = 1;
 var n2 = 2;
 var n3 = 3;
