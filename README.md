@@ -1,12 +1,14 @@
 #前端学习计划
 
 ###知识体系输出
-- 知识体系（持续更新）-> construction.md
+- [知识体系](https://github.com/lcc19941214/FrontendStudy/blob/master/%E5%89%8D%E7%AB%AF%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB%E6%80%BB%E7%BB%93.md) -> construction.md （持续更新）
 
 - [博客更新](http://achuan.me/)（每日）
 
+- [知识点整理](https://github.com/lcc19941214/FrontendStudy/blob/master/index.md) -> index.md (每日)
+
 ---
-### 知识点整理 -> index.md
+### 知识点整理 
 
 
 ###书籍阅读
