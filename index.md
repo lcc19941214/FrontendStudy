@@ -32,6 +32,6 @@
 
 #### 响应式布局
 
-- [实现响应式布局的简单思路.md](https://github.com/lcc19941214/FrontendStudy/tree/master/%E8%BF%90%E8%A1%8C%E7%8E%AF%E5%A2%83/%E6%B5%8F%E8%A7%88%E5%99%A8%E7%AB%AF/%E5%93%8D%E5%BA%94%E5%BC%8F%E5%B8%83%E5%B1%80)
+- [实现响应式布局的简单思路.md](hhttp://achuan.me/2016/01/15/%E5%93%8D%E5%BA%94%E5%BC%8F%E5%B8%83%E5%B1%80/)
 
 ### 服务器
