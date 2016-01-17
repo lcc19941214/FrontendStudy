@@ -67,7 +67,8 @@
 
 ###个人博客
 ####Jan.
-- hexo/jekyll调整个人博客
+- <s>hexo/jekyll调整个人博客</s>
+- <s>注册codepen并使用</s>
 
 Regular
 - 每日输出
