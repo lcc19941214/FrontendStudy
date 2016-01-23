@@ -31,9 +31,10 @@
 
 ##### ECMAScript
 
-- [script标签、基本语法（标识符、操作符）、语句](http://achuan.me/2016/01/14/javascript_%E7%9F%A5%E8%AF%86%E7%82%B9%E6%95%B4%E7%90%86_01/)
-- [变量声明、数据类型（原始类型、引用类型、类型转换、函数）引用类型拷贝](http://achuan.me/2016/01/14/javascript_%E7%9F%A5%E8%AF%86%E7%82%B9%E6%95%B4%E7%90%86_02/)
-- [执行环境、作用域](http://achuan.me/2016/01/14/javascript_%E7%9F%A5%E8%AF%86%E7%82%B9%E6%95%B4%E7%90%86_03/)
+- [script标签、语法（标识符、操作符）、语句](http://achuan.me/2016/01/14/javascript_%E7%9F%A5%E8%AF%86%E7%82%B9%E6%95%B4%E7%90%86_01/)
+- [变量声明、数据类型（原始类型、引用类型、类型转换、函数）引用类型 拷贝](http://achuan.me/2016/01/14/javascript_%E7%9F%A5%E8%AF%86%E7%82%B9%E6%95%B4%E7%90%86_02/)
+- [执行环境、作用域、作用域链](http://achuan.me/2016/01/14/javascript_%E7%9F%A5%E8%AF%86%E7%82%B9%E6%95%B4%E7%90%86_03/)
+- [继承、原型、原型链](http://achuan.me/2016/01/21/javascript_%E7%9F%A5%E8%AF%86%E7%82%B9%E6%95%B4%E7%90%86_04/)
 
 ##### DOM
 
@@ -58,5 +59,6 @@
 #### 其他
 
 - [页面渲染的过程](http://achuan.me/2016/01/15/%E4%BB%8Escript%E6%A0%87%E7%AD%BE%E7%9A%84%E6%91%86%E6%94%BE%E4%BD%8D%E7%BD%AE%E6%9D%A5%E7%9C%8B%E7%9C%8BDOM%E6%A0%91%E7%9A%84%E6%B8%B2%E6%9F%93/)
+- [重绘和回流](http://achuan.me/2016/01/15/%E4%BB%8Escript%E6%A0%87%E7%AD%BE%E7%9A%84%E6%91%86%E6%94%BE%E4%BD%8D%E7%BD%AE%E6%9D%A5%E7%9C%8B%E7%9C%8BDOM%E6%A0%91%E7%9A%84%E6%B8%B2%E6%9F%93/)
 
 ### 服务器
