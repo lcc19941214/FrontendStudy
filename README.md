@@ -19,7 +19,7 @@
 #### 2016-01-24
 
 ##### 基础理论-W3C-CSS
-- [flex布局](http://gold.xitu.io/entry/56a198dd79bc4400527cd3b3?utm_source=glowpost&utm_medium=20160124&utm_campaign=weibo)
+- [flex布局](http://achuan.me/2016/01/24/20160124flex/)
 
 ---
 
