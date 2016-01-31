@@ -16,89 +16,152 @@
 
 ### 前端学习情况
 
-#### 2016-01-30
-
-#### 基础理论-W3C-javascript
-- [window location navigator screen history 基本概念](http://achuan.me/2016/01/30/javascript_%E7%9F%A5%E8%AF%86%E7%82%B9%E6%95%B4%E7%90%86_06_BOM/)
-
----
-
-#### 2016-01-27
-
-##### 基础理论-W3C-CSS
-- [选择器 选择器性能](http://achuan.me/2016/01/28/css%E7%9F%A5%E8%AF%86%E7%82%B9%E6%A2%B3%E7%90%86_01/)
-
-##### 运行环境-浏览器-性能优化
-- [浏览器缓存基础理解](http://achuan.me/2016/01/28/20160128%E6%B5%8F%E8%A7%88%E5%99%A8%E7%BC%93%E5%AD%98/)
-
----
-
-#### 2016-01-27
-
-##### 基础理论-W3C-javascript
-- [函数表达式、闭包](http://achuan.me/2016/01/27/javascript_%E7%9F%A5%E8%AF%86%E7%82%B9%E6%95%B4%E7%90%86_05_%E9%97%AD%E5%8C%85/)
-
----
-
-#### 2016-01-24
-
-##### 基础理论-W3C-CSS
-- [flex布局](http://achuan.me/2016/01/24/20160124flex/)
-
----
-
-#### 2016-01-23
-
-##### 基础理论-W3C-javascript
-- [继承、原型、原型链](http://achuan.me/2016/01/23/javascript_%E7%9F%A5%E8%AF%86%E7%82%B9%E6%95%B4%E7%90%86_04_%E5%8E%9F%E5%9E%8B/)
-
----
-
-#### 2016-01-22
-
-##### 基础理论-W3C-javascript
-- [编写高质量JavaScript代码的基本要点](http://www.cnblogs.com/TomXu/archive/2011/12/28/2286877.html)
-
----
-
-#### 2016-01-20
-
-##### 基础理论-W3C-javascript
-- [变量声明、数据类型（原始类型、引用类型、类型转换、函数）引用类型 拷贝](http://achuan.me/2016/01/20/javascript_%E7%9F%A5%E8%AF%86%E7%82%B9%E6%95%B4%E7%90%86_02_%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/)
-
----
-
-#### 2016-01-17
-
-##### 基础理论-W3C-CSS
-- [什么是BFC, 如何清楚浮动](http://achuan.me/2016/01/16/20160116BFC/)
-- [外边距塌陷](http://achuan.me/2016/01/17/20160117margincollapse/)
-
----
-
-#### 2016-01-15
-
-##### 基础理论-W3C-CSS
-- [纯css美化表单——checkbox  `::before` `::after` ](http://achuan.me/2016/01/15/20160115%E7%BA%AFcss%E7%BE%8E%E5%8C%96%E8%A1%A8%E5%8D%95%E2%80%94%E2%80%94checkbox/)
-
-##### 运行环境-浏览器-响应式布局
-- [实现响应式布局的简单思路](http://achuan.me/2016/01/15/20160115%E5%93%8D%E5%BA%94%E5%BC%8F%E5%B8%83%E5%B1%80/)
-
-##### 运行环境-浏览器-其他
-- [页面渲染的过程](http://achuan.me/2016/01/15/20160115%E4%BB%8Escript%E6%A0%87%E7%AD%BE%E7%9A%84%E6%91%86%E6%94%BE%E4%BD%8D%E7%BD%AE%E6%9D%A5%E7%9C%8B%E7%9C%8BDOM%E6%A0%91%E7%9A%84%E6%B8%B2%E6%9F%93/)
-- [重绘和回流定义 如何减少回流](http://achuan.me/2016/01/15/20160115%E4%BB%8Escript%E6%A0%87%E7%AD%BE%E7%9A%84%E6%91%86%E6%94%BE%E4%BD%8D%E7%BD%AE%E6%9D%A5%E7%9C%8B%E7%9C%8BDOM%E6%A0%91%E7%9A%84%E6%B8%B2%E6%9F%93/)
-
-
----
-
-#### 2016-01-14
-
-##### 基础理论-W3C-javascript
-- [script标签、语法（标识符、操作符）、语句](http://achuan.me/2016/01/14/javascript_%E7%9F%A5%E8%AF%86%E7%82%B9%E6%95%B4%E7%90%86_01_%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95/)
-- [执行环境、作用域、作用域链](http://achuan.me/2016/01/14/javascript_%E7%9F%A5%E8%AF%86%E7%82%B9%E6%95%B4%E7%90%86_03_%E6%89%A7%E8%A1%8C%E7%8E%AF%E5%A2%83/)
-
-##### 运行环境-浏览器-浏览器兼容
-- [消除inline-block两侧间距bug](http://achuan.me/2016/01/14/20160114%E6%B6%88%E9%99%A4inline-block%E4%B8%A4%E4%BE%A7%E9%97%B4%E8%B7%9Dbug/)
-
-##### 其他
-- [hexo静态博客生成器](http://achuan.me/2016/01/14/%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BAhexo%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2/)
+<table>
+    <thead>
+        <tr>
+            <th>时间</th>
+            <th>范畴</th>
+            <th>内容</th>
+            <th>阅读</th> 
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>2016.01.31</td>
+            <td>基础理论-W3C-CSS</td>
+            <td></td>
+            <td>
+                <a href="http://www.zhangxinxu.com/wordpress/2016/01/css-font-keyword-value-caption-menu-message-box-small-caption-status-bar/">CSS font关键字属性值的简单研究</a>
+            </td>
+        </tr>
+        <tr>
+            <td>2016.01.30</td>
+            <td>基础理论-W3C-javascript</td>
+            <td>
+                <a href="http://achuan.me/2016/01/30/javascript_%E7%9F%A5%E8%AF%86%E7%82%B9%E6%95%B4%E7%90%86_06_BOM/">BOM</a>
+            </td>
+            <td></td>
+        </tr>
+        <tr>
+            <td rowspan="2">2016.01.28</td>
+            <td>基础理论-W3C-CSS</td>
+            <td>
+                <a href="http://achuan.me/2016/01/28/css%E7%9F%A5%E8%AF%86%E7%82%B9%E6%A2%B3%E7%90%86_01/">CSS选择器</a>
+            </td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>运行环境-浏览器-性能优化</td>
+            <td>
+                <a href="http://achuan.me/2016/01/28/20160128%E6%B5%8F%E8%A7%88%E5%99%A8%E7%BC%93%E5%AD%98/">浏览器缓存基础</a>
+            </td>
+            <td>
+                <a href="http://web.jobbole.com/84888/">浏览器缓存知识小结及应用</a>
+            </td>
+        </tr>
+        <tr>
+            <td>2016.01.27</td>
+            <td>基础理论-W3C-javascript</td>
+            <td>
+                <a href="http://achuan.me/2016/01/27/javascript_%E7%9F%A5%E8%AF%86%E7%82%B9%E6%95%B4%E7%90%86_05_%E9%97%AD%E5%8C%85/">函数表达式、闭包</a>
+            </td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2016.01.24</td>
+            <td>基础理论-W3C-CSS</td>
+            <td>
+                <a href="http://achuan.me/2016/01/24/20160124flex/">flex布局</a>
+            </td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2016.01.23</td>
+            <td>基础理论-W3C-javascript</td>
+            <td>
+                <li>
+                    <a href="http://achuan.me/2016/01/23/javascript_%E7%9F%A5%E8%AF%86%E7%82%B9%E6%95%B4%E7%90%86_04_%E5%8E%9F%E5%9E%8B/">继承、原型、原型链</a>
+                </li>
+            </td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2016.01.22</td>
+            <td>基础理论-W3C-javascript</td>
+            <td></td>
+            <td>
+                <a href="http://www.cnblogs.com/TomXu/archive/2011/12/28/2286877.html">编写高质量JavaScript代码基本要点</a>
+            </td>
+        </tr>
+        <tr>
+            <td>2016.01.20</td>
+            <td>基础理论-W3C-javascript</td>
+            <td>
+                <a href="http://achuan.me/2016/01/20/javascript_%E7%9F%A5%E8%AF%86%E7%82%B9%E6%95%B4%E7%90%86_02_%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/">数据类型</a>
+            </td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>2016.01.17</td>
+            <td>基础理论-W3C-CSS</td>
+            <td>
+                <a href="http://achuan.me/2016/01/16/20160116BFC/">BFC, 清除浮动</a>
+                <br>    
+                <a href="http://achuan.me/2016/01/17/20160117margincollapse/">外边距塌陷</a>
+            </td>
+            <td></td>
+        </tr>
+        <tr>
+            <td rowspan="3">2016.01.15</td>
+            <td>基础理论-W3C-CSS</td>
+            <td>
+                <a href="http://achuan.me/2016/01/15/20160115%E7%BA%AFcss%E7%BE%8E%E5%8C%96%E8%A1%A8%E5%8D%95%E2%80%94%E2%80%94checkbox/">css美化表单</a>
+            </td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>运行环境-浏览器-响应式布局</td>
+            <td>
+                <a href="http://achuan.me/2016/01/15/20160115%E5%93%8D%E5%BA%94%E5%BC%8F%E5%B8%83%E5%B1%80/">响应式布局简单思路</a>
+            </td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>运行环境-浏览器-其他</td>
+            <td>
+                <a href="http://achuan.me/2016/01/15/20160115%E4%BB%8Escript%E6%A0%87%E7%AD%BE%E7%9A%84%E6%91%86%E6%94%BE%E4%BD%8D%E7%BD%AE%E6%9D%A5%E7%9C%8B%E7%9C%8BDOM%E6%A0%91%E7%9A%84%E6%B8%B2%E6%9F%93/">页面渲染</a>
+                <br>    
+                <a href="http://achuan.me/2016/01/15/20160115%E4%BB%8Escript%E6%A0%87%E7%AD%BE%E7%9A%84%E6%91%86%E6%94%BE%E4%BD%8D%E7%BD%AE%E6%9D%A5%E7%9C%8B%E7%9C%8BDOM%E6%A0%91%E7%9A%84%E6%B8%B2%E6%9F%93/">重绘和回流</a>
+            </td>
+            <td>
+                <a href="http://www.css88.com/archives/4996">页面重绘和回流以及优化</a>
+                <br>    
+                <a href="http://www.zhihu.com/question/20117417">在前端开发中，页面渲染指什么？</a>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="3">2016.01.14</td>
+            <td>基础理论-W3C-javascript</td>
+            <td>
+                <a href="http://achuan.me/2016/01/14/javascript_%E7%9F%A5%E8%AF%86%E7%82%B9%E6%95%B4%E7%90%86_01_%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95/">js基础语法</a>
+                <br>    
+                <a href="http://achuan.me/2016/01/14/javascript_%E7%9F%A5%E8%AF%86%E7%82%B9%E6%95%B4%E7%90%86_03_%E6%89%A7%E8%A1%8C%E7%8E%AF%E5%A2%83/">执行环境、作用域链</a>
+            </td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>运行环境-浏览器-浏览器兼容</td>
+            <td>
+                <a href="http://achuan.me/2016/01/14/20160114%E6%B6%88%E9%99%A4inline-block%E4%B8%A4%E4%BE%A7%E9%97%B4%E8%B7%9Dbug/">inline-block间距bug</a>
+            </td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>其他</td>
+            <td>
+                <a href="http://achuan.me/2016/01/14/%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BAhexo%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2/">hexo静态博客生成器</a>
+            </td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
