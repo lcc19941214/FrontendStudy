@@ -36,7 +36,7 @@
         <tr>
             <td>2016.02.21</td>
             <td>基础理论-W3C-CSS</td>
-            <td><a href="http://achuan.me/2016/02/01/css%E7%9F%A5%E8%AF%86%E7%82%B9%E6%A2%B3%E7%90%86_02/">CSS字体&amp;文本 / 行框与行内框</a></td>
+            <td><a href="http://achuan.me/2016/02/01/css%E7%9F%A5%E8%AF%86%E7%82%B9%E6%A2%B3%E7%90%86_02/">CSS 字体&amp;文本 / 行框与行内框</a></td>
             <td><a href="http://www.html5cn.org/article-9340-1.html">职场新人晋升全栈工程师的通关秘籍</a></td>
         </tr>
         <tr>
