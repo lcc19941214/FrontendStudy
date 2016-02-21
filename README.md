@@ -16,16 +16,29 @@
 
 ### 前端学习情况
 
+<!-- 
+/**
+ * 单元格顺序
+ * 时间  范畴  内容  阅读
+ */
+-->
+
 <table>
     <thead>
         <tr>
             <th>时间</th>
             <th>范畴</th>
             <th>内容</th>
-            <th>阅读</th> 
+            <th>阅读</th>
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td>2016.02.21</td>
+            <td>基础理论-W3C-CSS</td>
+            <td><a href="http://achuan.me/2016/02/01/css%E7%9F%A5%E8%AF%86%E7%82%B9%E6%A2%B3%E7%90%86_02/">CSS字体&amp;文本 / 行框与行内框</a></td>
+            <td><a href="http://www.html5cn.org/article-9340-1.html">职场新人晋升全栈工程师的通关秘籍</a></td>
+        </tr>
         <tr>
             <td>2016.01.31</td>
             <td>基础理论-W3C-CSS</td>
@@ -79,9 +92,7 @@
             <td>2016.01.23</td>
             <td>基础理论-W3C-javascript</td>
             <td>
-                <li>
-                    <a href="http://achuan.me/2016/01/23/javascript_%E7%9F%A5%E8%AF%86%E7%82%B9%E6%95%B4%E7%90%86_04_%E5%8E%9F%E5%9E%8B/">继承、原型、原型链</a>
-                </li>
+                <a href="http://achuan.me/2016/01/23/javascript_%E7%9F%A5%E8%AF%86%E7%82%B9%E6%95%B4%E7%90%86_04_%E5%8E%9F%E5%9E%8B/">继承、原型、原型链</a>
             </td>
             <td></td>
         </tr>
@@ -106,7 +117,7 @@
             <td>基础理论-W3C-CSS</td>
             <td>
                 <a href="http://achuan.me/2016/01/16/20160116BFC/">BFC, 清除浮动</a>
-                <br>    
+                <br>
                 <a href="http://achuan.me/2016/01/17/20160117margincollapse/">外边距塌陷</a>
             </td>
             <td></td>
@@ -130,12 +141,12 @@
             <td>运行环境-浏览器-其他</td>
             <td>
                 <a href="http://achuan.me/2016/01/15/20160115%E4%BB%8Escript%E6%A0%87%E7%AD%BE%E7%9A%84%E6%91%86%E6%94%BE%E4%BD%8D%E7%BD%AE%E6%9D%A5%E7%9C%8B%E7%9C%8BDOM%E6%A0%91%E7%9A%84%E6%B8%B2%E6%9F%93/">页面渲染</a>
-                <br>    
+                <br>
                 <a href="http://achuan.me/2016/01/15/20160115%E4%BB%8Escript%E6%A0%87%E7%AD%BE%E7%9A%84%E6%91%86%E6%94%BE%E4%BD%8D%E7%BD%AE%E6%9D%A5%E7%9C%8B%E7%9C%8BDOM%E6%A0%91%E7%9A%84%E6%B8%B2%E6%9F%93/">重绘和回流</a>
             </td>
             <td>
                 <a href="http://www.css88.com/archives/4996">页面重绘和回流以及优化</a>
-                <br>    
+                <br>
                 <a href="http://www.zhihu.com/question/20117417">在前端开发中，页面渲染指什么？</a>
             </td>
         </tr>
@@ -144,7 +155,7 @@
             <td>基础理论-W3C-javascript</td>
             <td>
                 <a href="http://achuan.me/2016/01/14/javascript_%E7%9F%A5%E8%AF%86%E7%82%B9%E6%95%B4%E7%90%86_01_%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95/">js基础语法</a>
-                <br>    
+                <br>
                 <a href="http://achuan.me/2016/01/14/javascript_%E7%9F%A5%E8%AF%86%E7%82%B9%E6%95%B4%E7%90%86_03_%E6%89%A7%E8%A1%8C%E7%8E%AF%E5%A2%83/">执行环境、作用域链</a>
             </td>
             <td></td>
