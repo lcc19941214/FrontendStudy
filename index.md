@@ -49,6 +49,12 @@
 
 - [window location navigator screen history 基本概念](http://achuan.me/2016/01/30/javascript_%E7%9F%A5%E8%AF%86%E7%82%B9%E6%95%B4%E7%90%86_06_BOM/)
 
+#### 其他
+
+##### 正则表达式
+
+- [正则表达式基础](http://achuan.me/2016/02/26/20160226regexp_basic/)
+
 ---
 
 ## 框架库类
@@ -67,7 +73,7 @@
 
 #### git
 
-- [git命令行常用操作]()
+- [git命令行常用操作](http://achuan.me/2016/02/18/20160218gitcommand/)
 
 ### 开发工具
 

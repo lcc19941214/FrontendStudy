@@ -34,6 +34,16 @@
     </thead>
     <tbody>
         <tr>
+            <td>2016.02.26</td>
+            <td>基础理论-其他-正则表达式</td>
+            <td>
+                <a href="http://achuan.me/2016/02/26/20160226regexp_basic/">正则表达式基础</a>
+                <br>
+                <a href="http://achuan.me/2016/02/18/20160218gitcommand/">git命令行常用操作</a>
+            </td>
+            <td></td>
+        </tr>
+        <tr>
             <td>2016.02.25</td>
             <td>理论知识-图形图像-SVG</td>
             <td></td>
