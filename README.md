@@ -34,6 +34,14 @@
     </thead>
     <tbody>
         <tr>
+            <td>2016.03.01</td>
+            <td>基础理论-W3C-html</td>
+            <td></td>
+            <td>
+                <a href="http://web.jobbole.com/85173/?url_type=39&object_type=webpage&pos=1">HTML head 头标签</a>
+            </td>
+        </tr>
+        <tr>
             <td>2016.02.26</td>
             <td>基础理论-其他-正则表达式</td>
             <td>
