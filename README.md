@@ -34,6 +34,14 @@
     </thead>
     <tbody>
         <tr>
+            <td>2016.03.03</td>
+            <td>基础理论-W3C-javascript</td>
+            <td></td>
+            <td>
+                <a href="https://segmentfault.com/a/1190000004322358">JavaScript：彻底理解同步、异步和事件循环(Event Loop)</a>
+            </td>
+        </tr>
+        <tr>
             <td>2016.03.01</td>
             <td>基础理论-W3C-html</td>
             <td></td>
