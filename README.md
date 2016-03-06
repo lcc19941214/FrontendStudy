@@ -34,6 +34,18 @@
     </thead>
     <tbody>
         <tr>
+            <td>2016.03.06</td>
+            <td>基础理论-W3C-图形图像</td>
+            <td></td>
+            <td><a href="http://www.webhek.com/data-url">dataURL</a></td>
+        </tr>
+        <tr>
+            <td>2016.03.04</td>
+            <td>基础理论-W3C-图形图像</td>
+            <td></td>
+            <td><a href="https://developer.mozilla.org/zh-CN/docs/Web/API/Canvas_API/Tutorial/Basic_animations">canvas 像素操作 基本动画</a></td>
+        </tr>
+        <tr>
             <td>2016.03.03</td>
             <td>基础理论-W3C-javascript</td>
             <td></td>
