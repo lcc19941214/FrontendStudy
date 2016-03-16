@@ -34,6 +34,12 @@
     </thead>
     <tbody>
         <tr>
+            <td>2016.03.16</td>
+            <td>开发环境-多人协作-Git</td>
+            <td></td>
+            <td><a href="http://pcottle.github.io/learnGitBranching/">git操作学习-纯前端交互</a></td>
+        </tr>
+        <tr>
             <td>2016.03.06</td>
             <td>基础理论-W3C-图形图像</td>
             <td></td>
