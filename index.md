@@ -99,6 +99,8 @@
 
 - [浏览器缓存基础理解](http://achuan.me/2016/01/28/20160128%E6%B5%8F%E8%A7%88%E5%99%A8%E7%BC%93%E5%AD%98/)
 
+- [浏览器缓存的基本设置](http://www.alloyteam.com/2016/03/discussion-on-web-caching/)
+
 #### 其他
 
 - [页面渲染的过程](http://achuan.me/2016/01/15/20160115%E4%BB%8Escript%E6%A0%87%E7%AD%BE%E7%9A%84%E6%91%86%E6%94%BE%E4%BD%8D%E7%BD%AE%E6%9D%A5%E7%9C%8B%E7%9C%8BDOM%E6%A0%91%E7%9A%84%E6%B8%B2%E6%9F%93/)

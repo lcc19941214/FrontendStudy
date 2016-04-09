@@ -34,6 +34,12 @@
     </thead>
     <tbody>
         <tr>
+            <td>2016.04.04</td>
+            <td>浏览器缓存</td>
+            <td></td>
+            <td><a href="http://www.alloyteam.com/2016/03/discussion-on-web-caching/">浅谈浏览器缓存前端知识</a></td>
+        </tr>
+        <tr>
             <td>2016.03.16</td>
             <td>开发环境-多人协作-Git</td>
             <td></td>
